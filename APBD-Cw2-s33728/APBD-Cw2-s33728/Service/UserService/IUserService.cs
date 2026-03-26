@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using APBD_Cw2_s33728.Models;
+﻿using APBD_Cw2_s33728.Models;
 
 namespace APBD_Cw2_s33728.Service.UserService;
 

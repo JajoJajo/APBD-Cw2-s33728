@@ -1,7 +1,7 @@
 ﻿using System;
 using APBD_Cw2_s33728.Models;
 
-namespace APBD_Cw2_s33728.Service;
+namespace APBD_Cw2_s33728.Models;
 
 public interface IRent
 {

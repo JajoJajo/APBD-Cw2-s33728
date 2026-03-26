@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using APBD_Cw2_s33728.Exceptions;
+﻿using APBD_Cw2_s33728.Exceptions;
 using APBD_Cw2_s33728.Models;
 
 namespace APBD_Cw2_s33728.Service.UserService;
